@@ -12,8 +12,10 @@ st.set_page_config(
     layout="wide"
 )
 
-DATA_PATH = "/content/foodwise_dataset.csv"
-MODEL_PATH = "/content/foodwise_model.pkl"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+DATA_PATH = os.path.join(BASE_DIR, "foodwise_dataset.csv")
+MODEL_PATH = os.path.join(BASE_DIR, "foodwise_model.pkl")
 
 if not os.path.exists(DATA_PATH):
     st.error("Dataset file not found. Please upload and save the dataset.")
