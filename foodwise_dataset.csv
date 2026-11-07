@@ -1,0 +1,751 @@
+Date,Day_of_Week,Is_Weekend,Weather,Temperature_C,Special_Event,Promotion_Active,Estimated_Footfall,Reservations,Item_ID,Menu_Item,Category,Selling_Price_INR,Ingredient_Cost_Per_Unit_INR,Previous_Day_Sales_Units,7_Day_Average_Sales_Units,Prepared_Units,Demand_Units,Actual_Units_Sold,Unsold_Units,Food_Waste_kg,Revenue_INR,Waste_Cost_INR,Month,Day_Number
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW001,Veg Burger,Fast Food,120,48,1,1,2,2,2,0,0,240,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW025,Mushroom Pizza,Pizza,270,120,1,1,3,3,3,0,0,810,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW024,Club Sandwich,Fast Food,180,76,1,1,1,1,1,0,0,180,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW023,Ice Cream Sundae,Desserts,150,55,1,1,1,1,1,0,0,150,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW022,Gulab Jamun,Desserts,80,24,1,1,1,1,1,0,0,80,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW021,Chocolate Brownie,Desserts,100,34,1,1,1,0,0,1,0.24,0,34,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW020,Masala Chai,Beverages,40,10,1,1,2,2,2,0,0,80,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW018,Fresh Lime Soda,Beverages,80,22,1,1,1,0,0,1,0.17,0,22,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW017,Cold Coffee,Beverages,100,30,1,1,2,1,1,1,0.26,100,30,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW016,Fruit Bowl,Healthy,130,52,1,1,1,1,1,0,0,130,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW015,Caesar Salad,Healthy,170,68,1,1,1,1,1,0,0,170,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW014,Chicken Tikka,Starters,240,112,1,1,1,0,0,1,0.23,0,112,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW019,Chocolate Shake,Beverages,140,48,1,1,1,0,0,1,0.21,0,48,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW012,Dal Rice Bowl,Rice,150,54,1,1,1,0,0,1,0.25,0,54,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW013,Paneer Tikka,Starters,190,82,1,1,2,2,2,0,0,380,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW003,Paneer Wrap,Fast Food,140,62,1,1,1,0,0,1,0.22,0,62,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW004,French Fries,Sides,90,28,1,1,2,1,1,1,0.26,90,28,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW005,Garlic Bread,Sides,110,35,1,1,1,1,1,0,0,110,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW006,Margherita Pizza,Pizza,240,105,1,1,1,0,0,1,0.24,0,105,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW002,Chicken Burger,Fast Food,160,72,1,1,3,3,3,0,0,480,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW008,Pasta Alfredo,Main Course,220,92,1,1,1,0,0,1,0.2,0,92,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW009,Pasta Arrabbiata,Main Course,210,86,1,1,1,0,0,1,0.19,0,86,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW010,Veg Biryani,Rice,180,70,1,1,2,2,2,0,0,360,0,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW011,Chicken Biryani,Rice,230,105,1,1,2,1,1,1,0.14,230,105,8,1
+08-01-25,Friday,0,Cloudy,24,Local Festival,0,137,22,FW007,Farmhouse Pizza,Pizza,290,132,1,1,1,1,1,0,0,290,0,8,1
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW014,Chicken Tikka,Starters,240,112,0,0,2,2,2,0,0,480,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW015,Caesar Salad,Healthy,170,68,1,1,1,1,1,0,0,170,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW016,Fruit Bowl,Healthy,130,52,1,1,1,0,0,1,0.28,0,52,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW017,Cold Coffee,Beverages,100,30,1,1,5,5,5,0,0,500,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW018,Fresh Lime Soda,Beverages,80,22,0,0,2,1,1,1,0.16,80,22,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW022,Gulab Jamun,Desserts,80,24,1,1,2,2,2,0,0,160,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW021,Chocolate Brownie,Desserts,100,34,0,0,1,0,0,1,0.24,0,34,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW023,Ice Cream Sundae,Desserts,150,55,1,1,2,0,0,2,0.28,0,110,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW024,Club Sandwich,Fast Food,180,76,1,1,2,2,2,0,0,360,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW025,Mushroom Pizza,Pizza,270,120,3,3,2,2,2,0,0,540,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW020,Masala Chai,Beverages,40,10,2,2,3,1,1,2,0.52,40,20,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW013,Paneer Tikka,Starters,190,82,2,2,2,0,0,2,0.36,0,164,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW019,Chocolate Shake,Beverages,140,48,0,0,2,1,1,1,0.25,140,48,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW011,Chicken Biryani,Rice,230,105,1,1,2,2,2,0,0,460,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW002,Chicken Burger,Fast Food,160,72,3,3,5,5,5,0,0,800,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW003,Paneer Wrap,Fast Food,140,62,0,0,2,1,1,1,0.17,140,62,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW004,French Fries,Sides,90,28,1,1,2,0,0,2,0.43,0,56,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW005,Garlic Bread,Sides,110,35,1,1,2,0,0,2,0.43,0,70,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW006,Margherita Pizza,Pizza,240,105,0,0,1,1,1,0,0,240,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW001,Veg Burger,Fast Food,120,48,2,2,3,1,1,2,0.3,120,96,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW007,Farmhouse Pizza,Pizza,290,132,1,1,2,2,2,0,0,580,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW010,Veg Biryani,Rice,180,70,2,2,2,1,1,1,0.14,180,70,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW012,Dal Rice Bowl,Rice,150,54,0,0,2,0,0,2,0.31,0,108,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW008,Pasta Alfredo,Main Course,220,92,0,0,2,2,2,0,0,440,0,8,2
+08-02-25,Saturday,1,Cloudy,25,,1,194,53,FW009,Pasta Arrabbiata,Main Course,210,86,0,0,1,1,1,0,0,210,0,8,2
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW014,Chicken Tikka,Starters,240,112,2,1,2,2,2,0,0,480,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW024,Club Sandwich,Fast Food,180,76,2,1.5,3,3,3,0,0,540,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW023,Ice Cream Sundae,Desserts,150,55,0,0.5,2,2,2,0,0,300,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW022,Gulab Jamun,Desserts,80,24,2,1.5,1,1,1,0,0,80,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW025,Mushroom Pizza,Pizza,270,120,2,2.5,2,0,0,2,0.52,0,240,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW020,Masala Chai,Beverages,40,10,1,1.5,3,1,1,2,0.31,40,20,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW019,Chocolate Shake,Beverages,140,48,1,0.5,2,2,2,0,0,280,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW018,Fresh Lime Soda,Beverages,80,22,1,0.5,7,7,7,0,0,560,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW017,Cold Coffee,Beverages,100,30,5,3,4,2,2,2,0.27,200,60,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW016,Fruit Bowl,Healthy,130,52,0,0.5,1,0,0,1,0.2,0,52,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW015,Caesar Salad,Healthy,170,68,1,1,1,0,0,1,0.19,0,68,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW021,Chocolate Brownie,Desserts,100,34,0,0,1,0,0,1,0.17,0,34,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW013,Paneer Tikka,Starters,190,82,0,1,2,2,2,0,0,380,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW011,Chicken Biryani,Rice,230,105,2,1.5,2,1,1,1,0.12,230,105,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW012,Dal Rice Bowl,Rice,150,54,0,0,1,0,0,1,0.13,0,54,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW001,Veg Burger,Fast Food,120,48,1,1.5,2,1,1,1,0.22,120,48,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW002,Chicken Burger,Fast Food,160,72,5,4,3,1,1,2,0.55,160,144,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW004,French Fries,Sides,90,28,0,0.5,2,0,0,2,0.49,0,56,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW005,Garlic Bread,Sides,110,35,0,0.5,1,0,0,1,0.22,0,35,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW003,Paneer Wrap,Fast Food,140,62,1,0.5,3,3,3,0,0,420,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW007,Farmhouse Pizza,Pizza,290,132,2,1.5,2,2,2,0,0,580,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW008,Pasta Alfredo,Main Course,220,92,2,1,2,2,2,0,0,440,0,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW009,Pasta Arrabbiata,Main Course,210,86,1,0.5,1,0,0,1,0.17,0,86,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW010,Veg Biryani,Rice,180,70,1,1.5,2,0,0,2,0.29,0,140,8,3
+08-03-25,Sunday,1,Sunny,30,,0,219,51,FW006,Margherita Pizza,Pizza,240,105,1,0.5,2,2,2,0,0,480,0,8,3
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW018,Fresh Lime Soda,Beverages,80,22,7,2.67,3,2,2,1,0.23,160,22,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW015,Caesar Salad,Healthy,170,68,0,0.67,1,0,0,1,0.19,0,68,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW016,Fruit Bowl,Healthy,130,52,0,0.33,1,0,0,1,0.25,0,52,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW017,Cold Coffee,Beverages,100,30,2,2.67,3,0,0,3,0.78,0,90,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW020,Masala Chai,Beverages,40,10,1,1.33,2,1,1,1,0.15,40,10,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW014,Chicken Tikka,Starters,240,112,2,1.33,1,0,0,1,0.25,0,112,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW022,Gulab Jamun,Desserts,80,24,1,1.33,2,2,2,0,0,160,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW023,Ice Cream Sundae,Desserts,150,55,2,1,4,4,4,0,0,600,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW024,Club Sandwich,Fast Food,180,76,3,2,2,0,0,2,0.48,0,152,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW025,Mushroom Pizza,Pizza,270,120,0,1.67,2,2,2,0,0,540,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW021,Chocolate Brownie,Desserts,100,34,0,0,2,2,2,0,0,200,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW013,Paneer Tikka,Starters,190,82,2,1.33,1,0,0,1,0.23,0,82,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW019,Chocolate Shake,Beverages,140,48,2,1,1,1,1,0,0,140,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW011,Chicken Biryani,Rice,230,105,1,1.33,3,3,3,0,0,690,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW001,Veg Burger,Fast Food,120,48,1,1.33,2,0,0,2,0.5,0,96,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW002,Chicken Burger,Fast Food,160,72,1,3,4,4,4,0,0,640,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW003,Paneer Wrap,Fast Food,140,62,3,1.33,1,1,1,0,0,140,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW004,French Fries,Sides,90,28,0,0.33,2,1,1,1,0.25,90,28,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW005,Garlic Bread,Sides,110,35,0,0.33,1,1,1,0,0,110,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW012,Dal Rice Bowl,Rice,150,54,0,0,1,1,1,0,0,150,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW007,Farmhouse Pizza,Pizza,290,132,2,1.67,1,1,1,0,0,290,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW008,Pasta Alfredo,Main Course,220,92,2,1.33,2,2,2,0,0,440,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.33,1,0,0,1,0.27,0,86,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW010,Veg Biryani,Rice,180,70,0,1,1,1,1,0,0,180,0,8,4
+08-04-25,Monday,0,Sunny,34,,0,151,23,FW006,Margherita Pizza,Pizza,240,105,2,1,1,0,0,1,0.23,0,105,8,4
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW016,Fruit Bowl,Healthy,130,52,0,0.25,1,0,0,1,0.17,0,52,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW017,Cold Coffee,Beverages,100,30,0,2,3,1,1,2,0.24,100,60,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW018,Fresh Lime Soda,Beverages,80,22,2,2.5,3,3,3,0,0,240,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW019,Chocolate Shake,Beverages,140,48,1,1,4,4,4,0,0,560,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW020,Masala Chai,Beverages,40,10,1,1.25,2,2,2,0,0,80,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW022,Gulab Jamun,Desserts,80,24,2,1.5,4,4,4,0,0,320,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW015,Caesar Salad,Healthy,170,68,0,0.5,1,0,0,1,0.25,0,68,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW023,Ice Cream Sundae,Desserts,150,55,4,1.75,2,0,0,2,0.38,0,110,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW024,Club Sandwich,Fast Food,180,76,0,1.5,2,1,1,1,0.27,180,76,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW025,Mushroom Pizza,Pizza,270,120,2,1.75,1,0,0,1,0.17,0,120,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW021,Chocolate Brownie,Desserts,100,34,2,0.5,1,0,0,1,0.25,0,34,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW014,Chicken Tikka,Starters,240,112,0,1,2,0,0,2,0.4,0,224,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW013,Paneer Tikka,Starters,190,82,0,1,3,3,3,0,0,570,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW012,Dal Rice Bowl,Rice,150,54,1,0.25,1,1,1,0,0,150,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW002,Chicken Burger,Fast Food,160,72,4,3.25,2,1,1,1,0.28,160,72,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW003,Paneer Wrap,Fast Food,140,62,1,1.25,2,2,2,0,0,280,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW004,French Fries,Sides,90,28,1,0.5,2,2,2,0,0,180,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW005,Garlic Bread,Sides,110,35,1,0.5,1,1,1,0,0,110,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW006,Margherita Pizza,Pizza,240,105,0,0.75,1,1,1,0,0,240,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW001,Veg Burger,Fast Food,120,48,0,1,2,0,0,2,0.47,0,96,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW008,Pasta Alfredo,Main Course,220,92,2,1.5,1,1,1,0,0,220,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.25,1,0,0,1,0.19,0,86,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW010,Veg Biryani,Rice,180,70,1,1,2,1,1,1,0.21,180,70,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW011,Chicken Biryani,Rice,230,105,3,1.75,3,3,3,0,0,690,0,8,5
+08-05-25,Tuesday,0,Sunny,33,Sports Match,0,188,36,FW007,Farmhouse Pizza,Pizza,290,132,1,1.5,2,1,1,1,0.22,290,132,8,5
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW015,Caesar Salad,Healthy,170,68,0,0.4,3,3,3,0,0,510,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW016,Fruit Bowl,Healthy,130,52,0,0.2,1,1,1,0,0,130,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW017,Cold Coffee,Beverages,100,30,1,1.8,2,2,2,0,0,200,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW018,Fresh Lime Soda,Beverages,80,22,3,2.6,2,0,0,2,0.47,0,44,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW019,Chocolate Shake,Beverages,140,48,4,1.6,4,4,4,0,0,560,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW021,Chocolate Brownie,Desserts,100,34,0,0.4,1,0,0,1,0.26,0,34,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW022,Gulab Jamun,Desserts,80,24,4,2,1,1,1,0,0,80,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW023,Ice Cream Sundae,Desserts,150,55,0,1.4,1,1,1,0,0,150,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW024,Club Sandwich,Fast Food,180,76,1,1.4,1,0,0,1,0.15,0,76,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW014,Chicken Tikka,Starters,240,112,0,0.8,1,0,0,1,0.13,0,112,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW020,Masala Chai,Beverages,40,10,2,1.4,2,1,1,1,0.23,40,10,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW025,Mushroom Pizza,Pizza,270,120,0,1.4,1,0,0,1,0.23,0,120,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW013,Paneer Tikka,Starters,190,82,3,1.4,1,0,0,1,0.24,0,82,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW011,Chicken Biryani,Rice,230,105,3,2,4,4,4,0,0,920,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW001,Veg Burger,Fast Food,120,48,0,0.8,2,2,2,0,0,240,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW002,Chicken Burger,Fast Food,160,72,1,2.8,2,1,1,1,0.26,160,72,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW003,Paneer Wrap,Fast Food,140,62,2,1.4,2,2,2,0,0,280,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW004,French Fries,Sides,90,28,2,0.8,2,2,2,0,0,180,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW005,Garlic Bread,Sides,110,35,1,0.6,1,0,0,1,0.27,0,35,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW012,Dal Rice Bowl,Rice,150,54,1,0.4,1,1,1,0,0,150,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW007,Farmhouse Pizza,Pizza,290,132,1,1.4,1,0,0,1,0.19,0,132,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW008,Pasta Alfredo,Main Course,220,92,1,1.4,1,0,0,1,0.12,0,92,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.2,1,0,0,1,0.22,0,86,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW010,Veg Biryani,Rice,180,70,1,1,2,2,2,0,0,360,0,8,6
+08-06-25,Wednesday,0,Cloudy,31,,1,109,19,FW006,Margherita Pizza,Pizza,240,105,1,0.8,1,1,1,0,0,240,0,8,6
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW015,Caesar Salad,Healthy,170,68,3,0.83,1,0,0,1,0.14,0,68,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW016,Fruit Bowl,Healthy,130,52,1,0.33,1,1,1,0,0,130,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW017,Cold Coffee,Beverages,100,30,2,1.83,2,1,1,1,0.12,100,30,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW018,Fresh Lime Soda,Beverages,80,22,0,2.17,2,0,0,2,0.24,0,44,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW019,Chocolate Shake,Beverages,140,48,4,2,1,1,1,0,0,140,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW021,Chocolate Brownie,Desserts,100,34,0,0.33,1,1,1,0,0,100,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW022,Gulab Jamun,Desserts,80,24,1,1.83,1,1,1,0,0,80,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW023,Ice Cream Sundae,Desserts,150,55,1,1.33,1,0,0,1,0.14,0,55,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW024,Club Sandwich,Fast Food,180,76,0,1.17,1,1,1,0,0,180,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW014,Chicken Tikka,Starters,240,112,0,0.67,1,0,0,1,0.2,0,112,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW020,Masala Chai,Beverages,40,10,1,1.33,2,2,2,0,0,80,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW025,Mushroom Pizza,Pizza,270,120,0,1.17,1,0,0,1,0.16,0,120,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW013,Paneer Tikka,Starters,190,82,0,1.17,1,1,1,0,0,190,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW011,Chicken Biryani,Rice,230,105,4,2.33,3,3,3,0,0,690,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW012,Dal Rice Bowl,Rice,150,54,1,0.5,2,2,2,0,0,300,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW001,Veg Burger,Fast Food,120,48,2,1,3,3,3,0,0,360,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW002,Chicken Burger,Fast Food,160,72,1,2.5,2,0,0,2,0.26,0,144,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW004,French Fries,Sides,90,28,2,1,1,1,1,0,0,90,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW005,Garlic Bread,Sides,110,35,0,0.5,2,2,2,0,0,220,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW003,Paneer Wrap,Fast Food,140,62,2,1.5,1,0,0,1,0.19,0,62,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW007,Farmhouse Pizza,Pizza,290,132,0,1.17,2,2,2,0,0,580,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW008,Pasta Alfredo,Main Course,220,92,0,1.17,1,0,0,1,0.26,0,92,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.17,1,0,0,1,0.25,0,86,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW010,Veg Biryani,Rice,180,70,2,1.17,2,2,2,0,0,360,0,8,7
+08-07-25,Thursday,0,Rainy,31,,0,131,36,FW006,Margherita Pizza,Pizza,240,105,1,0.83,1,0,0,1,0.2,0,105,8,7
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW019,Chocolate Shake,Beverages,140,48,1,1.86,3,3,3,0,0,420,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW016,Fruit Bowl,Healthy,130,52,1,0.43,1,1,1,0,0,130,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW017,Cold Coffee,Beverages,100,30,1,1.71,3,2,2,1,0.15,200,30,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW018,Fresh Lime Soda,Beverages,80,22,0,1.86,3,3,3,0,0,240,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW020,Masala Chai,Beverages,40,10,2,1.43,3,1,1,2,0.52,40,20,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW015,Caesar Salad,Healthy,170,68,0,0.71,2,2,2,0,0,340,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW022,Gulab Jamun,Desserts,80,24,1,1.71,2,0,0,2,0.36,0,48,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW023,Ice Cream Sundae,Desserts,150,55,0,1.14,3,3,3,0,0,450,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW024,Club Sandwich,Fast Food,180,76,1,1.14,3,3,3,0,0,540,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW025,Mushroom Pizza,Pizza,270,120,0,1,1,1,1,0,0,270,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW021,Chocolate Brownie,Desserts,100,34,1,0.43,1,1,1,0,0,100,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW014,Chicken Tikka,Starters,240,112,0,0.57,2,2,2,0,0,480,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW006,Margherita Pizza,Pizza,240,105,0,0.71,2,2,2,0,0,480,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW012,Dal Rice Bowl,Rice,150,54,2,0.71,2,2,2,0,0,300,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW002,Chicken Burger,Fast Food,160,72,0,2.14,4,4,4,0,0,640,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW003,Paneer Wrap,Fast Food,140,62,0,1.29,2,2,2,0,0,280,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW004,French Fries,Sides,90,28,1,1,2,0,0,2,0.35,0,56,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW005,Garlic Bread,Sides,110,35,2,0.71,2,0,0,2,0.47,0,70,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW013,Paneer Tikka,Starters,190,82,1,1.14,2,1,1,1,0.21,190,82,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW001,Veg Burger,Fast Food,120,48,3,1.29,3,1,1,2,0.32,120,96,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW008,Pasta Alfredo,Main Course,220,92,0,1,2,0,0,2,0.56,0,184,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.14,1,0,0,1,0.28,0,86,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW010,Veg Biryani,Rice,180,70,2,1.29,3,1,1,2,0.52,180,140,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW011,Chicken Biryani,Rice,230,105,3,2.43,3,3,3,0,0,690,0,8,8
+08-08-25,Friday,0,Cloudy,24,Local Festival,1,212,65,FW007,Farmhouse Pizza,Pizza,290,132,2,1.29,2,0,0,2,0.46,0,264,8,8
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW015,Caesar Salad,Healthy,170,68,2,0.86,1,0,0,1,0.14,0,68,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW016,Fruit Bowl,Healthy,130,52,1,0.43,1,1,1,0,0,130,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW017,Cold Coffee,Beverages,100,30,2,1.86,4,2,2,2,0.5,200,60,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW018,Fresh Lime Soda,Beverages,80,22,3,2.29,3,2,2,1,0.17,160,22,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW019,Chocolate Shake,Beverages,140,48,3,2.29,3,0,0,3,0.74,0,144,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW021,Chocolate Brownie,Desserts,100,34,1,0.57,2,0,0,2,0.33,0,68,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW022,Gulab Jamun,Desserts,80,24,0,1.57,2,0,0,2,0.28,0,48,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW023,Ice Cream Sundae,Desserts,150,55,3,1.43,2,0,0,2,0.37,0,110,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW024,Club Sandwich,Fast Food,180,76,3,1.43,3,3,3,0,0,540,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW014,Chicken Tikka,Starters,240,112,2,0.86,2,2,2,0,0,480,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW020,Masala Chai,Beverages,40,10,1,1.29,4,4,4,0,0,160,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW013,Paneer Tikka,Starters,190,82,1,1,1,1,1,0,0,190,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW025,Mushroom Pizza,Pizza,270,120,1,0.71,2,2,2,0,0,540,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW011,Chicken Biryani,Rice,230,105,3,2.71,5,5,5,0,0,1150,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW001,Veg Burger,Fast Food,120,48,1,1.14,2,1,1,1,0.2,120,48,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW002,Chicken Burger,Fast Food,160,72,4,2.29,2,1,1,1,0.2,160,72,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW003,Paneer Wrap,Fast Food,140,62,2,1.57,3,3,3,0,0,420,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW004,French Fries,Sides,90,28,0,0.86,6,6,6,0,0,540,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW005,Garlic Bread,Sides,110,35,0,0.57,2,1,1,1,0.22,110,35,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW012,Dal Rice Bowl,Rice,150,54,2,1,4,4,4,0,0,600,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW007,Farmhouse Pizza,Pizza,290,132,0,1.14,3,3,3,0,0,870,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW008,Pasta Alfredo,Main Course,220,92,0,1,2,2,2,0,0,440,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.14,1,1,1,0,0,210,0,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW010,Veg Biryani,Rice,180,70,1,1.14,2,1,1,1,0.16,180,70,8,9
+08-09-25,Saturday,1,Sunny,32,,1,200,48,FW006,Margherita Pizza,Pizza,240,105,2,1,2,1,1,1,0.15,240,105,8,9
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW015,Caesar Salad,Healthy,170,68,0,0.71,1,0,0,1,0.19,0,68,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW016,Fruit Bowl,Healthy,130,52,1,0.57,1,0,0,1,0.26,0,52,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW017,Cold Coffee,Beverages,100,30,2,1.43,2,0,0,2,0.35,0,60,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW018,Fresh Lime Soda,Beverages,80,22,2,2.43,2,2,2,0,0,160,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW019,Chocolate Shake,Beverages,140,48,0,2.14,2,2,2,0,0,280,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW021,Chocolate Brownie,Desserts,100,34,0,0.57,1,0,0,1,0.23,0,34,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW022,Gulab Jamun,Desserts,80,24,0,1.29,2,0,0,2,0.3,0,48,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW023,Ice Cream Sundae,Desserts,150,55,0,1.43,2,1,1,1,0.23,150,55,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW024,Club Sandwich,Fast Food,180,76,3,1.57,4,4,4,0,0,720,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW014,Chicken Tikka,Starters,240,112,2,0.86,1,0,0,1,0.17,0,112,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW020,Masala Chai,Beverages,40,10,4,1.71,3,3,3,0,0,120,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW025,Mushroom Pizza,Pizza,270,120,2,0.71,1,0,0,1,0.19,0,120,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW013,Paneer Tikka,Starters,190,82,1,1.14,5,5,5,0,0,950,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW011,Chicken Biryani,Rice,230,105,5,3.14,4,4,4,0,0,920,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW012,Dal Rice Bowl,Rice,150,54,4,1.57,2,1,1,1,0.27,150,54,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW001,Veg Burger,Fast Food,120,48,1,1.14,2,2,2,0,0,240,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW002,Chicken Burger,Fast Food,160,72,1,1.71,2,2,2,0,0,320,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW004,French Fries,Sides,90,28,6,1.71,2,0,0,2,0.45,0,56,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW005,Garlic Bread,Sides,110,35,1,0.71,1,1,1,0,0,110,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW003,Paneer Wrap,Fast Food,140,62,3,1.86,2,2,2,0,0,280,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW007,Farmhouse Pizza,Pizza,290,132,3,1.29,1,0,0,1,0.17,0,132,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW008,Pasta Alfredo,Main Course,220,92,2,1,2,2,2,0,0,440,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW009,Pasta Arrabbiata,Main Course,210,86,1,0.14,2,2,2,0,0,420,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW010,Veg Biryani,Rice,180,70,1,1.14,3,3,3,0,0,540,0,8,10
+08-10-25,Sunday,1,Rainy,26,,0,183,40,FW006,Margherita Pizza,Pizza,240,105,1,1,2,2,2,0,0,480,0,8,10
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW018,Fresh Lime Soda,Beverages,80,22,2,1.71,3,3,3,0,0,240,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW015,Caesar Salad,Healthy,170,68,0,0.71,1,0,0,1,0.21,0,68,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW016,Fruit Bowl,Healthy,130,52,0,0.57,2,2,2,0,0,260,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW017,Cold Coffee,Beverages,100,30,0,1.14,1,1,1,0,0,100,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW019,Chocolate Shake,Beverages,140,48,2,2.14,2,1,1,1,0.13,140,48,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW014,Chicken Tikka,Starters,240,112,0,0.57,2,2,2,0,0,480,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW021,Chocolate Brownie,Desserts,100,34,0,0.57,1,1,1,0,0,100,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW022,Gulab Jamun,Desserts,80,24,0,1.14,2,2,2,0,0,160,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW023,Ice Cream Sundae,Desserts,150,55,1,1.29,1,0,0,1,0.15,0,55,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW024,Club Sandwich,Fast Food,180,76,4,1.71,1,0,0,1,0.19,0,76,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW020,Masala Chai,Beverages,40,10,3,2,2,0,0,2,0.53,0,20,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW013,Paneer Tikka,Starters,190,82,5,1.57,1,1,1,0,0,190,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW025,Mushroom Pizza,Pizza,270,120,0,0.71,1,0,0,1,0.26,0,120,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW011,Chicken Biryani,Rice,230,105,4,3.57,2,0,0,2,0.3,0,210,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW001,Veg Burger,Fast Food,120,48,2,1.29,1,1,1,0,0,120,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW002,Chicken Burger,Fast Food,160,72,2,1.86,2,2,2,0,0,320,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW003,Paneer Wrap,Fast Food,140,62,2,1.71,1,0,0,1,0.13,0,62,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW004,French Fries,Sides,90,28,0,1.71,1,0,0,1,0.19,0,28,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW005,Garlic Bread,Sides,110,35,1,0.86,1,1,1,0,0,110,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW012,Dal Rice Bowl,Rice,150,54,1,1.71,1,1,1,0,0,150,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW007,Farmhouse Pizza,Pizza,290,132,0,1,2,2,2,0,0,580,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW008,Pasta Alfredo,Main Course,220,92,2,1,1,1,1,0,0,220,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW009,Pasta Arrabbiata,Main Course,210,86,2,0.43,1,1,1,0,0,210,0,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW010,Veg Biryani,Rice,180,70,3,1.57,1,0,0,1,0.14,0,70,8,11
+08-11-25,Monday,0,Sunny,32,,0,105,18,FW006,Margherita Pizza,Pizza,240,105,2,1,1,0,0,1,0.26,0,105,8,11
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW025,Mushroom Pizza,Pizza,270,120,0,0.43,1,0,0,1,0.26,0,120,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW024,Club Sandwich,Fast Food,180,76,0,1.71,2,1,1,1,0.25,180,76,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW023,Ice Cream Sundae,Desserts,150,55,0,0.71,2,2,2,0,0,300,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW022,Gulab Jamun,Desserts,80,24,2,1.14,1,1,1,0,0,80,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW021,Chocolate Brownie,Desserts,100,34,1,0.43,4,4,4,0,0,400,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW020,Masala Chai,Beverages,40,10,0,1.86,2,0,0,2,0.4,0,20,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW019,Chocolate Shake,Beverages,140,48,1,2.14,2,2,2,0,0,280,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW018,Fresh Lime Soda,Beverages,80,22,3,1.86,1,1,1,0,0,80,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW017,Cold Coffee,Beverages,100,30,1,1.29,2,1,1,1,0.26,100,30,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW015,Caesar Salad,Healthy,170,68,0,0.71,2,2,2,0,0,340,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW014,Chicken Tikka,Starters,240,112,2,0.86,1,0,0,1,0.27,0,112,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW016,Fruit Bowl,Healthy,130,52,2,0.86,2,2,2,0,0,260,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW013,Paneer Tikka,Starters,190,82,1,1.71,1,1,1,0,0,190,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW012,Dal Rice Bowl,Rice,150,54,1,1.71,1,1,1,0,0,150,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW001,Veg Burger,Fast Food,120,48,1,1.43,2,0,0,2,0.54,0,96,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW002,Chicken Burger,Fast Food,160,72,2,1.57,1,0,0,1,0.14,0,72,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW003,Paneer Wrap,Fast Food,140,62,0,1.57,2,1,1,1,0.24,140,62,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW005,Garlic Bread,Sides,110,35,1,0.86,3,3,3,0,0,330,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW004,French Fries,Sides,90,28,0,1.57,3,3,3,0,0,270,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW007,Farmhouse Pizza,Pizza,290,132,2,1.14,1,0,0,1,0.15,0,132,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW008,Pasta Alfredo,Main Course,220,92,1,0.86,1,0,0,1,0.21,0,92,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW009,Pasta Arrabbiata,Main Course,210,86,1,0.57,1,0,0,1,0.19,0,86,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW010,Veg Biryani,Rice,180,70,0,1.43,3,3,3,0,0,540,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW011,Chicken Biryani,Rice,230,105,0,3.14,3,3,3,0,0,690,0,8,12
+08-12-25,Tuesday,0,Sunny,28,,0,141,40,FW006,Margherita Pizza,Pizza,240,105,0,1,2,2,2,0,0,480,0,8,12
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW018,Fresh Lime Soda,Beverages,80,22,1,1.57,2,1,1,1,0.27,80,22,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW015,Caesar Salad,Healthy,170,68,2,1,1,1,1,0,0,170,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW016,Fruit Bowl,Healthy,130,52,2,1.14,1,0,0,1,0.19,0,52,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW017,Cold Coffee,Beverages,100,30,1,1.29,2,2,2,0,0,200,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW019,Chocolate Shake,Beverages,140,48,2,1.86,1,1,1,0,0,140,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW014,Chicken Tikka,Starters,240,112,0,0.86,3,3,3,0,0,720,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW021,Chocolate Brownie,Desserts,100,34,4,1,2,2,2,0,0,200,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW022,Gulab Jamun,Desserts,80,24,1,0.71,3,3,3,0,0,240,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW023,Ice Cream Sundae,Desserts,150,55,2,1,2,2,2,0,0,300,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW024,Club Sandwich,Fast Food,180,76,1,1.71,1,0,0,1,0.22,0,76,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW020,Masala Chai,Beverages,40,10,0,1.57,2,0,0,2,0.42,0,20,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW025,Mushroom Pizza,Pizza,270,120,0,0.43,1,1,1,0,0,270,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW013,Paneer Tikka,Starters,190,82,1,1.43,4,4,4,0,0,760,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW011,Chicken Biryani,Rice,230,105,3,3.14,2,2,2,0,0,460,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW001,Veg Burger,Fast Food,120,48,0,1.43,1,1,1,0,0,120,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW002,Chicken Burger,Fast Food,160,72,0,1.43,1,1,1,0,0,160,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW003,Paneer Wrap,Fast Food,140,62,1,1.43,1,0,0,1,0.27,0,62,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW004,French Fries,Sides,90,28,3,1.71,3,3,3,0,0,270,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW005,Garlic Bread,Sides,110,35,3,1.14,1,1,1,0,0,110,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW012,Dal Rice Bowl,Rice,150,54,1,1.71,1,0,0,1,0.23,0,54,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW007,Farmhouse Pizza,Pizza,290,132,0,1,1,1,1,0,0,290,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW008,Pasta Alfredo,Main Course,220,92,0,0.71,1,0,0,1,0.25,0,92,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.57,1,0,0,1,0.27,0,86,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW010,Veg Biryani,Rice,180,70,3,1.71,1,1,1,0,0,180,0,8,13
+08-13-25,Wednesday,0,Sunny,32,,0,118,23,FW006,Margherita Pizza,Pizza,240,105,2,1.14,3,3,3,0,0,720,0,8,13
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW015,Caesar Salad,Healthy,170,68,1,0.71,1,0,0,1,0.25,0,68,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW016,Fruit Bowl,Healthy,130,52,0,1,2,2,2,0,0,260,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW017,Cold Coffee,Beverages,100,30,2,1.29,2,1,1,1,0.18,100,30,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW018,Fresh Lime Soda,Beverages,80,22,1,1.71,2,1,1,1,0.16,80,22,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW019,Chocolate Shake,Beverages,140,48,1,1.43,1,0,0,1,0.17,0,48,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW021,Chocolate Brownie,Desserts,100,34,2,1.29,1,1,1,0,0,100,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW022,Gulab Jamun,Desserts,80,24,3,1,4,4,4,0,0,320,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW023,Ice Cream Sundae,Desserts,150,55,2,1.14,1,1,1,0,0,150,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW024,Club Sandwich,Fast Food,180,76,0,1.71,2,2,2,0,0,360,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW014,Chicken Tikka,Starters,240,112,3,1.29,1,0,0,1,0.23,0,112,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW020,Masala Chai,Beverages,40,10,0,1.43,2,1,1,1,0.27,40,10,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW025,Mushroom Pizza,Pizza,270,120,1,0.57,4,4,4,0,0,1080,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW013,Paneer Tikka,Starters,190,82,4,2,1,1,1,0,0,190,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW011,Chicken Biryani,Rice,230,105,2,2.86,2,0,0,2,0.33,0,210,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW012,Dal Rice Bowl,Rice,150,54,0,1.57,3,3,3,0,0,450,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW001,Veg Burger,Fast Food,120,48,1,1.29,2,1,1,1,0.2,120,48,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW002,Chicken Burger,Fast Food,160,72,1,1.43,1,1,1,0,0,160,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW004,French Fries,Sides,90,28,3,1.86,3,3,3,0,0,270,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW005,Garlic Bread,Sides,110,35,1,1.29,2,2,2,0,0,220,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW003,Paneer Wrap,Fast Food,140,62,0,1.14,1,0,0,1,0.13,0,62,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW007,Farmhouse Pizza,Pizza,290,132,1,1.14,1,1,1,0,0,290,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW008,Pasta Alfredo,Main Course,220,92,0,0.71,2,2,2,0,0,440,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.57,1,0,0,1,0.22,0,86,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW010,Veg Biryani,Rice,180,70,1,1.57,2,2,2,0,0,360,0,8,14
+08-14-25,Thursday,0,Sunny,30,,1,111,28,FW006,Margherita Pizza,Pizza,240,105,3,1.43,1,1,1,0,0,240,0,8,14
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW018,Fresh Lime Soda,Beverages,80,22,1,1.86,2,0,0,2,0.44,0,44,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW015,Caesar Salad,Healthy,170,68,0,0.71,3,3,3,0,0,510,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW016,Fruit Bowl,Healthy,130,52,2,1.14,1,0,0,1,0.18,0,52,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW017,Cold Coffee,Beverages,100,30,1,1.29,2,0,0,2,0.37,0,60,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW019,Chocolate Shake,Beverages,140,48,0,1.29,2,1,1,1,0.26,140,48,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW014,Chicken Tikka,Starters,240,112,0,1.29,1,0,0,1,0.17,0,112,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW021,Chocolate Brownie,Desserts,100,34,1,1.29,1,0,0,1,0.24,0,34,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW022,Gulab Jamun,Desserts,80,24,4,1.43,1,0,0,1,0.27,0,24,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW023,Ice Cream Sundae,Desserts,150,55,1,1.29,1,1,1,0,0,150,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW024,Club Sandwich,Fast Food,180,76,2,1.86,3,3,3,0,0,540,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW020,Masala Chai,Beverages,40,10,1,1.29,2,1,1,1,0.26,40,10,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW013,Paneer Tikka,Starters,190,82,1,2,1,0,0,1,0.15,0,82,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW025,Mushroom Pizza,Pizza,270,120,4,1.14,1,1,1,0,0,270,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW011,Chicken Biryani,Rice,230,105,0,2.43,3,3,3,0,0,690,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW001,Veg Burger,Fast Food,120,48,1,1,1,0,0,1,0.27,0,48,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW002,Chicken Burger,Fast Food,160,72,1,1.57,2,2,2,0,0,320,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW003,Paneer Wrap,Fast Food,140,62,0,1.14,2,1,1,1,0.14,140,62,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW004,French Fries,Sides,90,28,3,2.14,2,2,2,0,0,180,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW005,Garlic Bread,Sides,110,35,2,1.29,1,0,0,1,0.19,0,35,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW012,Dal Rice Bowl,Rice,150,54,3,1.71,2,2,2,0,0,300,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW007,Farmhouse Pizza,Pizza,290,132,1,1,1,1,1,0,0,290,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW008,Pasta Alfredo,Main Course,220,92,2,1,2,2,2,0,0,440,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.57,1,1,1,0,0,210,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW010,Veg Biryani,Rice,180,70,2,1.57,1,1,1,0,0,180,0,8,15
+08-15-25,Friday,0,Cloudy,27,,0,147,38,FW006,Margherita Pizza,Pizza,240,105,1,1.57,2,0,0,2,0.49,0,210,8,15
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW016,Fruit Bowl,Healthy,130,52,0,1,1,0,0,1,0.13,0,52,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW017,Cold Coffee,Beverages,100,30,0,1,2,1,1,1,0.25,100,30,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW018,Fresh Lime Soda,Beverages,80,22,0,1.43,4,4,4,0,0,320,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW019,Chocolate Shake,Beverages,140,48,1,1,1,1,1,0,0,140,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW020,Masala Chai,Beverages,40,10,1,1.29,2,2,2,0,0,80,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW022,Gulab Jamun,Desserts,80,24,0,1.43,2,0,0,2,0.34,0,48,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW023,Ice Cream Sundae,Desserts,150,55,1,1,1,0,0,1,0.27,0,55,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW024,Club Sandwich,Fast Food,180,76,3,1.86,2,1,1,1,0.21,180,76,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW025,Mushroom Pizza,Pizza,270,120,1,1.14,2,2,2,0,0,540,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW015,Caesar Salad,Healthy,170,68,3,0.86,2,2,2,0,0,340,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW021,Chocolate Brownie,Desserts,100,34,0,1.14,1,0,0,1,0.26,0,34,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW014,Chicken Tikka,Starters,240,112,0,1,1,1,1,0,0,240,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW013,Paneer Tikka,Starters,190,82,0,1.86,2,1,1,1,0.25,190,82,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW012,Dal Rice Bowl,Rice,150,54,2,1.71,3,3,3,0,0,450,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW002,Chicken Burger,Fast Food,160,72,2,1.29,3,3,3,0,0,480,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW003,Paneer Wrap,Fast Food,140,62,1,1,2,1,1,1,0.26,140,62,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW004,French Fries,Sides,90,28,2,2.43,3,2,2,1,0.26,180,28,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW005,Garlic Bread,Sides,110,35,0,1.29,2,0,0,2,0.35,0,70,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW006,Margherita Pizza,Pizza,240,105,0,1.29,3,3,3,0,0,720,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW001,Veg Burger,Fast Food,120,48,0,0.86,2,0,0,2,0.55,0,96,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW008,Pasta Alfredo,Main Course,220,92,2,1.29,1,1,1,0,0,220,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW009,Pasta Arrabbiata,Main Course,210,86,1,0.71,1,0,0,1,0.16,0,86,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW010,Veg Biryani,Rice,180,70,1,1.57,3,3,3,0,0,540,0,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW011,Chicken Biryani,Rice,230,105,3,2.43,2,1,1,1,0.27,230,105,8,16
+08-16-25,Saturday,1,Rainy,23,,0,181,41,FW007,Farmhouse Pizza,Pizza,290,132,1,1.14,1,1,1,0,0,290,0,8,16
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW016,Fruit Bowl,Healthy,130,52,0,0.86,1,1,1,0,0,130,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW017,Cold Coffee,Beverages,100,30,1,0.86,2,2,2,0,0,200,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW018,Fresh Lime Soda,Beverages,80,22,4,1.71,2,2,2,0,0,160,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW019,Chocolate Shake,Beverages,140,48,1,1.14,2,0,0,2,0.3,0,96,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW020,Masala Chai,Beverages,40,10,2,1,2,2,2,0,0,80,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW022,Gulab Jamun,Desserts,80,24,0,1.43,1,1,1,0,0,80,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW023,Ice Cream Sundae,Desserts,150,55,0,1,2,2,2,0,0,300,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW024,Club Sandwich,Fast Food,180,76,1,1.57,2,1,1,1,0.23,180,76,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW025,Mushroom Pizza,Pizza,270,120,2,1.14,3,3,3,0,0,810,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW015,Caesar Salad,Healthy,170,68,2,1.14,3,3,3,0,0,510,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW021,Chocolate Brownie,Desserts,100,34,0,1.14,1,0,0,1,0.14,0,34,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW014,Chicken Tikka,Starters,240,112,1,0.86,1,0,0,1,0.28,0,112,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW013,Paneer Tikka,Starters,190,82,1,1.86,4,4,4,0,0,760,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW012,Dal Rice Bowl,Rice,150,54,3,1.57,2,1,1,1,0.28,150,54,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW002,Chicken Burger,Fast Food,160,72,3,1.57,2,1,1,1,0.24,160,72,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW003,Paneer Wrap,Fast Food,140,62,1,0.71,2,1,1,1,0.27,140,62,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW004,French Fries,Sides,90,28,2,1.86,3,3,3,0,0,270,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW005,Garlic Bread,Sides,110,35,0,1.14,2,2,2,0,0,220,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW006,Margherita Pizza,Pizza,240,105,3,1.57,2,1,1,1,0.14,240,105,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW001,Veg Burger,Fast Food,120,48,0,0.71,2,0,0,2,0.48,0,96,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW008,Pasta Alfredo,Main Course,220,92,1,1.14,1,1,1,0,0,220,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.57,1,1,1,0,0,210,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW010,Veg Biryani,Rice,180,70,3,1.86,3,3,3,0,0,540,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW011,Chicken Biryani,Rice,230,105,1,1.86,3,3,3,0,0,690,0,8,17
+08-17-25,Sunday,1,Cloudy,26,,0,186,34,FW007,Farmhouse Pizza,Pizza,290,132,1,0.86,1,0,0,1,0.24,0,132,8,17
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW016,Fruit Bowl,Healthy,130,52,1,1,1,0,0,1,0.2,0,52,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW017,Cold Coffee,Beverages,100,30,2,1.14,1,1,1,0,0,100,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW018,Fresh Lime Soda,Beverages,80,22,2,1.71,2,2,2,0,0,160,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW019,Chocolate Shake,Beverages,140,48,0,0.86,1,0,0,1,0.2,0,48,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW020,Masala Chai,Beverages,40,10,2,0.86,1,0,0,1,0.23,0,10,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW022,Gulab Jamun,Desserts,80,24,1,1.57,1,1,1,0,0,80,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW023,Ice Cream Sundae,Desserts,150,55,2,1.14,1,0,0,1,0.18,0,55,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW024,Club Sandwich,Fast Food,180,76,1,1.14,1,1,1,0,0,180,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW025,Mushroom Pizza,Pizza,270,120,3,1.57,1,1,1,0,0,270,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW015,Caesar Salad,Healthy,170,68,3,1.57,1,0,0,1,0.23,0,68,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW021,Chocolate Brownie,Desserts,100,34,0,1.14,1,0,0,1,0.14,0,34,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW014,Chicken Tikka,Starters,240,112,0,0.86,1,1,1,0,0,240,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW013,Paneer Tikka,Starters,190,82,4,1.71,1,1,1,0,0,190,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW012,Dal Rice Bowl,Rice,150,54,1,1.57,2,2,2,0,0,300,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW002,Chicken Burger,Fast Food,160,72,1,1.43,2,2,2,0,0,320,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW003,Paneer Wrap,Fast Food,140,62,1,0.57,1,0,0,1,0.16,0,62,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW004,French Fries,Sides,90,28,3,2.29,2,1,1,1,0.25,90,28,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW005,Garlic Bread,Sides,110,35,2,1.29,1,1,1,0,0,110,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW006,Margherita Pizza,Pizza,240,105,1,1.43,2,2,2,0,0,480,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW001,Veg Burger,Fast Food,120,48,0,0.43,1,1,1,0,0,120,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW008,Pasta Alfredo,Main Course,220,92,1,1,1,1,1,0,0,220,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW009,Pasta Arrabbiata,Main Course,210,86,1,0.43,1,1,1,0,0,210,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW010,Veg Biryani,Rice,180,70,3,1.86,1,1,1,0,0,180,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW011,Chicken Biryani,Rice,230,105,3,1.71,1,1,1,0,0,230,0,8,18
+08-18-25,Monday,0,Sunny,26,,0,124,30,FW007,Farmhouse Pizza,Pizza,290,132,0,0.86,3,3,3,0,0,870,0,8,18
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW016,Fruit Bowl,Healthy,130,52,0,0.71,1,1,1,0,0,130,0,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW017,Cold Coffee,Beverages,100,30,1,1.14,2,1,1,1,0.17,100,30,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW018,Fresh Lime Soda,Beverages,80,22,2,1.57,1,0,0,1,0.14,0,22,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW019,Chocolate Shake,Beverages,140,48,0,0.71,1,0,0,1,0.14,0,48,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW020,Masala Chai,Beverages,40,10,0,0.86,4,4,4,0,0,160,0,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW022,Gulab Jamun,Desserts,80,24,1,1.43,1,0,0,1,0.12,0,24,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW023,Ice Cream Sundae,Desserts,150,55,0,1.14,1,1,1,0,0,150,0,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW024,Club Sandwich,Fast Food,180,76,1,1.29,1,0,0,1,0.13,0,76,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW025,Mushroom Pizza,Pizza,270,120,1,1.71,1,0,0,1,0.18,0,120,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW015,Caesar Salad,Healthy,170,68,0,1.57,1,1,1,0,0,170,0,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW021,Chocolate Brownie,Desserts,100,34,0,1,1,0,0,1,0.21,0,34,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW014,Chicken Tikka,Starters,240,112,1,0.71,1,0,0,1,0.15,0,112,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW013,Paneer Tikka,Starters,190,82,1,1.71,1,0,0,1,0.18,0,82,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW012,Dal Rice Bowl,Rice,150,54,2,1.71,2,1,1,1,0.15,150,54,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW002,Chicken Burger,Fast Food,160,72,2,1.43,1,0,0,1,0.24,0,72,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW003,Paneer Wrap,Fast Food,140,62,0,0.57,1,0,0,1,0.22,0,62,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW004,French Fries,Sides,90,28,1,2.43,2,2,2,0,0,180,0,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW005,Garlic Bread,Sides,110,35,1,1.29,1,0,0,1,0.28,0,35,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW006,Margherita Pizza,Pizza,240,105,2,1.71,1,0,0,1,0.25,0,105,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW001,Veg Burger,Fast Food,120,48,1,0.43,1,0,0,1,0.27,0,48,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW008,Pasta Alfredo,Main Course,220,92,1,1,1,1,1,0,0,220,0,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW009,Pasta Arrabbiata,Main Course,210,86,1,0.43,1,0,0,1,0.13,0,86,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW010,Veg Biryani,Rice,180,70,1,2,2,2,2,0,0,360,0,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW011,Chicken Biryani,Rice,230,105,1,1.86,2,2,2,0,0,460,0,8,19
+08-19-25,Tuesday,0,Cloudy,25,,0,118,21,FW007,Farmhouse Pizza,Pizza,290,132,3,1,1,0,0,1,0.28,0,132,8,19
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW016,Fruit Bowl,Healthy,130,52,1,0.57,1,1,1,0,0,130,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW017,Cold Coffee,Beverages,100,30,1,1.14,2,0,0,2,0.43,0,60,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW018,Fresh Lime Soda,Beverages,80,22,0,1.43,2,2,2,0,0,160,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW019,Chocolate Shake,Beverages,140,48,0,0.43,2,2,2,0,0,280,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW020,Masala Chai,Beverages,40,10,4,1.43,2,0,0,2,0.54,0,20,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW022,Gulab Jamun,Desserts,80,24,0,1.29,1,1,1,0,0,80,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW023,Ice Cream Sundae,Desserts,150,55,1,1,1,1,1,0,0,150,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW024,Club Sandwich,Fast Food,180,76,0,1.14,1,1,1,0,0,180,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW025,Mushroom Pizza,Pizza,270,120,0,1.71,2,2,2,0,0,540,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW015,Caesar Salad,Healthy,170,68,1,1.43,1,0,0,1,0.16,0,68,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW021,Chocolate Brownie,Desserts,100,34,0,0.43,1,0,0,1,0.19,0,34,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW014,Chicken Tikka,Starters,240,112,0,0.71,2,2,2,0,0,480,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW013,Paneer Tikka,Starters,190,82,0,1.57,2,0,0,2,0.28,0,164,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW012,Dal Rice Bowl,Rice,150,54,1,1.71,2,1,1,1,0.21,150,54,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW002,Chicken Burger,Fast Food,160,72,0,1.43,3,3,3,0,0,480,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW003,Paneer Wrap,Fast Food,140,62,0,0.43,1,1,1,0,0,140,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW004,French Fries,Sides,90,28,2,2.29,2,1,1,1,0.13,90,28,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW005,Garlic Bread,Sides,110,35,0,0.86,3,3,3,0,0,330,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW006,Margherita Pizza,Pizza,240,105,0,1.43,2,1,1,1,0.16,240,105,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW001,Veg Burger,Fast Food,120,48,0,0.43,4,4,4,0,0,480,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW008,Pasta Alfredo,Main Course,220,92,1,1.14,2,2,2,0,0,440,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.43,1,0,0,1,0.14,0,86,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW010,Veg Biryani,Rice,180,70,2,1.86,2,1,1,1,0.25,180,70,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW011,Chicken Biryani,Rice,230,105,2,1.71,3,3,3,0,0,690,0,8,20
+08-20-25,Wednesday,0,Sunny,24,,1,155,27,FW007,Farmhouse Pizza,Pizza,290,132,0,1,1,1,1,0,0,290,0,8,20
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW016,Fruit Bowl,Healthy,130,52,1,0.71,3,3,3,0,0,390,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW017,Cold Coffee,Beverages,100,30,0,0.86,2,1,1,1,0.24,100,30,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW018,Fresh Lime Soda,Beverages,80,22,2,1.57,2,2,2,0,0,160,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW019,Chocolate Shake,Beverages,140,48,2,0.57,1,0,0,1,0.28,0,48,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW020,Masala Chai,Beverages,40,10,0,1.43,2,1,1,1,0.2,40,10,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW022,Gulab Jamun,Desserts,80,24,1,1,1,1,1,0,0,80,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW023,Ice Cream Sundae,Desserts,150,55,1,0.86,1,1,1,0,0,150,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW024,Club Sandwich,Fast Food,180,76,1,1.29,1,1,1,0,0,180,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW025,Mushroom Pizza,Pizza,270,120,2,1.86,2,2,2,0,0,540,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW015,Caesar Salad,Healthy,170,68,0,1.29,1,0,0,1,0.19,0,68,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW021,Chocolate Brownie,Desserts,100,34,0,0.14,1,1,1,0,0,100,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW014,Chicken Tikka,Starters,240,112,2,0.57,2,2,2,0,0,480,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW013,Paneer Tikka,Starters,190,82,0,1,1,1,1,0,0,190,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW012,Dal Rice Bowl,Rice,150,54,1,1.86,2,2,2,0,0,300,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW002,Chicken Burger,Fast Food,160,72,3,1.71,1,1,1,0,0,160,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW003,Paneer Wrap,Fast Food,140,62,1,0.57,1,1,1,0,0,140,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW004,French Fries,Sides,90,28,1,2,2,2,2,0,0,180,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW005,Garlic Bread,Sides,110,35,3,1.14,2,2,2,0,0,220,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW006,Margherita Pizza,Pizza,240,105,1,1.14,2,2,2,0,0,480,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW001,Veg Burger,Fast Food,120,48,4,0.86,1,0,0,1,0.22,0,48,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW008,Pasta Alfredo,Main Course,220,92,2,1.43,1,0,0,1,0.22,0,92,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.43,1,1,1,0,0,210,0,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW010,Veg Biryani,Rice,180,70,1,1.86,1,0,0,1,0.26,0,70,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW011,Chicken Biryani,Rice,230,105,3,1.86,2,1,1,1,0.28,230,105,8,21
+08-21-25,Thursday,0,Cloudy,30,,0,135,33,FW007,Farmhouse Pizza,Pizza,290,132,1,1,3,3,3,0,0,870,0,8,21
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW016,Fruit Bowl,Healthy,130,52,3,0.86,1,0,0,1,0.14,0,52,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW017,Cold Coffee,Beverages,100,30,1,0.86,1,0,0,1,0.14,0,30,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW018,Fresh Lime Soda,Beverages,80,22,2,1.71,2,2,2,0,0,160,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW019,Chocolate Shake,Beverages,140,48,0,0.57,3,3,3,0,0,420,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW020,Masala Chai,Beverages,40,10,1,1.43,3,3,3,0,0,120,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW022,Gulab Jamun,Desserts,80,24,1,0.57,1,1,1,0,0,80,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW023,Ice Cream Sundae,Desserts,150,55,1,0.86,1,1,1,0,0,150,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW024,Club Sandwich,Fast Food,180,76,1,1.14,2,2,2,0,0,360,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW025,Mushroom Pizza,Pizza,270,120,2,1.57,1,0,0,1,0.2,0,120,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW015,Caesar Salad,Healthy,170,68,0,1.29,1,0,0,1,0.2,0,68,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW021,Chocolate Brownie,Desserts,100,34,1,0.14,1,0,0,1,0.21,0,34,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW014,Chicken Tikka,Starters,240,112,2,0.86,2,2,2,0,0,480,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW013,Paneer Tikka,Starters,190,82,1,1,1,0,0,1,0.27,0,82,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW012,Dal Rice Bowl,Rice,150,54,2,1.71,4,4,4,0,0,600,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW002,Chicken Burger,Fast Food,160,72,1,1.71,2,2,2,0,0,320,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW003,Paneer Wrap,Fast Food,140,62,1,0.71,1,1,1,0,0,140,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW004,French Fries,Sides,90,28,2,1.86,2,1,1,1,0.18,90,28,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW005,Garlic Bread,Sides,110,35,2,1.14,1,0,0,1,0.22,0,35,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW006,Margherita Pizza,Pizza,240,105,2,1.29,1,0,0,1,0.26,0,105,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW001,Veg Burger,Fast Food,120,48,0,0.71,2,2,2,0,0,240,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW008,Pasta Alfredo,Main Course,220,92,0,1.14,1,0,0,1,0.28,0,92,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW009,Pasta Arrabbiata,Main Course,210,86,1,0.57,1,0,0,1,0.13,0,86,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW010,Veg Biryani,Rice,180,70,0,1.57,2,2,2,0,0,360,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW011,Chicken Biryani,Rice,230,105,1,2,2,2,2,0,0,460,0,8,22
+08-22-25,Friday,0,Rainy,19,,0,124,45,FW007,Farmhouse Pizza,Pizza,290,132,3,1.29,1,0,0,1,0.12,0,132,8,22
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW016,Fruit Bowl,Healthy,130,52,0,0.86,4,4,4,0,0,520,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW017,Cold Coffee,Beverages,100,30,0,0.86,2,0,0,2,0.43,0,60,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW018,Fresh Lime Soda,Beverages,80,22,2,2,2,2,2,0,0,160,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW025,Mushroom Pizza,Pizza,270,120,0,1.43,1,0,0,1,0.22,0,120,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW019,Chocolate Shake,Beverages,140,48,3,0.86,1,1,1,0,0,140,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW021,Chocolate Brownie,Desserts,100,34,0,0.14,1,1,1,0,0,100,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW022,Gulab Jamun,Desserts,80,24,1,0.71,1,0,0,1,0.12,0,24,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW023,Ice Cream Sundae,Desserts,150,55,1,0.86,1,0,0,1,0.12,0,55,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW024,Club Sandwich,Fast Food,180,76,2,1,3,3,3,0,0,540,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW015,Caesar Salad,Healthy,170,68,0,0.86,1,1,1,0,0,170,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW020,Masala Chai,Beverages,40,10,3,1.71,2,2,2,0,0,80,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW014,Chicken Tikka,Starters,240,112,2,1.14,1,0,0,1,0.21,0,112,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW007,Farmhouse Pizza,Pizza,290,132,0,1.14,1,1,1,0,0,290,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW012,Dal Rice Bowl,Rice,150,54,4,2,2,0,0,2,0.51,0,108,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW001,Veg Burger,Fast Food,120,48,2,1,3,3,3,0,0,360,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW002,Chicken Burger,Fast Food,160,72,2,1.71,2,2,2,0,0,320,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW003,Paneer Wrap,Fast Food,140,62,1,0.71,1,0,0,1,0.27,0,62,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW004,French Fries,Sides,90,28,1,1.71,2,1,1,1,0.17,90,28,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW005,Garlic Bread,Sides,110,35,0,1.14,1,1,1,0,0,110,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW013,Paneer Tikka,Starters,190,82,0,1,1,0,0,1,0.21,0,82,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW008,Pasta Alfredo,Main Course,220,92,0,0.86,1,1,1,0,0,220,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.43,1,1,1,0,0,210,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW010,Veg Biryani,Rice,180,70,2,1.71,2,2,2,0,0,360,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW011,Chicken Biryani,Rice,230,105,2,1.86,2,2,2,0,0,460,0,8,23
+08-23-25,Saturday,1,Rainy,23,,0,152,24,FW006,Margherita Pizza,Pizza,240,105,0,1.29,1,0,0,1,0.27,0,105,8,23
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW016,Fruit Bowl,Healthy,130,52,4,1.43,4,4,4,0,0,520,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW017,Cold Coffee,Beverages,100,30,0,0.71,2,2,2,0,0,200,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW018,Fresh Lime Soda,Beverages,80,22,2,1.71,2,2,2,0,0,160,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW019,Chocolate Shake,Beverages,140,48,1,0.86,3,3,3,0,0,420,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW020,Masala Chai,Beverages,40,10,2,1.71,3,2,2,1,0.21,80,10,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW022,Gulab Jamun,Desserts,80,24,0,0.71,2,1,1,1,0.14,80,24,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW023,Ice Cream Sundae,Desserts,150,55,0,0.86,2,1,1,1,0.16,150,55,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW024,Club Sandwich,Fast Food,180,76,3,1.29,2,1,1,1,0.27,180,76,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW025,Mushroom Pizza,Pizza,270,120,0,1.14,1,1,1,0,0,270,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW015,Caesar Salad,Healthy,170,68,1,0.71,2,2,2,0,0,340,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW021,Chocolate Brownie,Desserts,100,34,1,0.29,1,1,1,0,0,100,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW014,Chicken Tikka,Starters,240,112,0,1,2,1,1,1,0.24,240,112,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW013,Paneer Tikka,Starters,190,82,0,0.86,2,2,2,0,0,380,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW012,Dal Rice Bowl,Rice,150,54,0,1.57,2,0,0,2,0.52,0,108,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW002,Chicken Burger,Fast Food,160,72,2,1.57,2,1,1,1,0.12,160,72,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW003,Paneer Wrap,Fast Food,140,62,0,0.57,2,1,1,1,0.19,140,62,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW004,French Fries,Sides,90,28,1,1.57,4,4,4,0,0,360,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW005,Garlic Bread,Sides,110,35,1,1.29,2,0,0,2,0.54,0,70,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW006,Margherita Pizza,Pizza,240,105,0,0.86,3,3,3,0,0,720,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW001,Veg Burger,Fast Food,120,48,3,1.43,3,3,3,0,0,360,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW008,Pasta Alfredo,Main Course,220,92,1,0.86,2,1,1,1,0.25,220,92,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW009,Pasta Arrabbiata,Main Course,210,86,1,0.57,2,2,2,0,0,420,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW010,Veg Biryani,Rice,180,70,2,1.57,5,5,5,0,0,900,0,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW011,Chicken Biryani,Rice,230,105,2,2,3,2,2,1,0.16,460,105,8,24
+08-24-25,Sunday,1,Rainy,25,,0,221,57,FW007,Farmhouse Pizza,Pizza,290,132,1,1.14,2,0,0,2,0.31,0,264,8,24
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW016,Fruit Bowl,Healthy,130,52,4,1.86,3,3,3,0,0,390,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW017,Cold Coffee,Beverages,100,30,2,0.71,2,0,0,2,0.26,0,60,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW018,Fresh Lime Soda,Beverages,80,22,2,1.71,5,5,5,0,0,400,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW019,Chocolate Shake,Beverages,140,48,3,1.29,2,0,0,2,0.35,0,96,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW020,Masala Chai,Beverages,40,10,2,1.71,2,2,2,0,0,80,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW022,Gulab Jamun,Desserts,80,24,1,0.71,1,0,0,1,0.23,0,24,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW023,Ice Cream Sundae,Desserts,150,55,1,0.71,2,2,2,0,0,300,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW024,Club Sandwich,Fast Food,180,76,1,1.29,4,4,4,0,0,720,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW025,Mushroom Pizza,Pizza,270,120,1,0.86,3,3,3,0,0,810,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW015,Caesar Salad,Healthy,170,68,2,0.57,1,0,0,1,0.25,0,68,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW021,Chocolate Brownie,Desserts,100,34,1,0.43,1,0,0,1,0.18,0,34,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW014,Chicken Tikka,Starters,240,112,1,1.14,1,0,0,1,0.25,0,112,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW013,Paneer Tikka,Starters,190,82,2,0.57,1,0,0,1,0.13,0,82,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW012,Dal Rice Bowl,Rice,150,54,0,1.43,2,1,1,1,0.15,150,54,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW002,Chicken Burger,Fast Food,160,72,1,1.57,2,2,2,0,0,320,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW003,Paneer Wrap,Fast Food,140,62,1,0.57,1,1,1,0,0,140,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW004,French Fries,Sides,90,28,4,1.71,2,1,1,1,0.28,90,28,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW005,Garlic Bread,Sides,110,35,0,1,1,0,0,1,0.2,0,35,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW006,Margherita Pizza,Pizza,240,105,3,1.14,1,1,1,0,0,240,0,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW001,Veg Burger,Fast Food,120,48,3,1.86,2,1,1,1,0.23,120,48,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW008,Pasta Alfredo,Main Course,220,92,1,0.86,1,0,0,1,0.21,0,92,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW009,Pasta Arrabbiata,Main Course,210,86,2,0.71,1,0,0,1,0.19,0,86,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW010,Veg Biryani,Rice,180,70,5,1.86,2,0,0,2,0.47,0,140,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW011,Chicken Biryani,Rice,230,105,2,1.86,2,1,1,1,0.15,230,105,8,25
+08-25-25,Monday,0,Sunny,34,,0,149,31,FW007,Farmhouse Pizza,Pizza,290,132,0,1.14,2,2,2,0,0,580,0,8,25
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW016,Fruit Bowl,Healthy,130,52,3,2.29,1,0,0,1,0.14,0,52,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW017,Cold Coffee,Beverages,100,30,0,0.57,2,0,0,2,0.37,0,60,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW018,Fresh Lime Soda,Beverages,80,22,5,2.14,2,1,1,1,0.13,80,22,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW019,Chocolate Shake,Beverages,140,48,0,1.29,1,1,1,0,0,140,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW020,Masala Chai,Beverages,40,10,2,2,2,0,0,2,0.27,0,20,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW022,Gulab Jamun,Desserts,80,24,0,0.57,3,3,3,0,0,240,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW023,Ice Cream Sundae,Desserts,150,55,2,1,1,1,1,0,0,150,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW024,Club Sandwich,Fast Food,180,76,4,1.71,2,0,0,2,0.36,0,152,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW025,Mushroom Pizza,Pizza,270,120,3,1.14,2,2,2,0,0,540,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW015,Caesar Salad,Healthy,170,68,0,0.57,1,1,1,0,0,170,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW021,Chocolate Brownie,Desserts,100,34,0,0.43,1,0,0,1,0.28,0,34,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW014,Chicken Tikka,Starters,240,112,0,1,1,0,0,1,0.21,0,112,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW013,Paneer Tikka,Starters,190,82,0,0.43,1,1,1,0,0,190,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW012,Dal Rice Bowl,Rice,150,54,1,1.29,1,1,1,0,0,150,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW002,Chicken Burger,Fast Food,160,72,2,1.57,1,0,0,1,0.19,0,72,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW003,Paneer Wrap,Fast Food,140,62,1,0.71,1,1,1,0,0,140,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW004,French Fries,Sides,90,28,1,1.71,4,4,4,0,0,360,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW005,Garlic Bread,Sides,110,35,0,0.86,1,0,0,1,0.19,0,35,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW006,Margherita Pizza,Pizza,240,105,1,1,2,2,2,0,0,480,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW001,Veg Burger,Fast Food,120,48,1,1.86,2,2,2,0,0,240,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW008,Pasta Alfredo,Main Course,220,92,0,0.71,1,1,1,0,0,220,0,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.57,1,0,0,1,0.24,0,86,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW010,Veg Biryani,Rice,180,70,0,1.71,2,1,1,1,0.25,180,70,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW011,Chicken Biryani,Rice,230,105,1,1.86,2,1,1,1,0.23,230,105,8,26
+08-26-25,Tuesday,0,Sunny,34,,0,124,28,FW007,Farmhouse Pizza,Pizza,290,132,2,1,1,1,1,0,0,290,0,8,26
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW016,Fruit Bowl,Healthy,130,52,0,2.14,2,2,2,0,0,260,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW017,Cold Coffee,Beverages,100,30,0,0.43,2,0,0,2,0.26,0,60,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW018,Fresh Lime Soda,Beverages,80,22,1,2.29,2,1,1,1,0.25,80,22,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW025,Mushroom Pizza,Pizza,270,120,2,1.43,1,0,0,1,0.16,0,120,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW019,Chocolate Shake,Beverages,140,48,1,1.43,2,1,1,1,0.21,140,48,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW021,Chocolate Brownie,Desserts,100,34,0,0.43,2,2,2,0,0,200,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW022,Gulab Jamun,Desserts,80,24,3,1,2,2,2,0,0,160,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW023,Ice Cream Sundae,Desserts,150,55,1,1,1,0,0,1,0.24,0,55,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW024,Club Sandwich,Fast Food,180,76,0,1.71,2,1,1,1,0.27,180,76,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW015,Caesar Salad,Healthy,170,68,1,0.57,2,2,2,0,0,340,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW020,Masala Chai,Beverages,40,10,0,1.43,2,2,2,0,0,80,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW014,Chicken Tikka,Starters,240,112,0,1,1,1,1,0,0,240,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW007,Farmhouse Pizza,Pizza,290,132,1,1.14,1,1,1,0,0,290,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW012,Dal Rice Bowl,Rice,150,54,1,1.29,1,1,1,0,0,150,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW001,Veg Burger,Fast Food,120,48,2,2.14,2,2,2,0,0,240,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW002,Chicken Burger,Fast Food,160,72,0,1.57,1,0,0,1,0.23,0,72,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW003,Paneer Wrap,Fast Food,140,62,1,0.86,1,0,0,1,0.23,0,62,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW004,French Fries,Sides,90,28,4,2,2,2,2,0,0,180,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW005,Garlic Bread,Sides,110,35,0,0.86,2,2,2,0,0,220,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW013,Paneer Tikka,Starters,190,82,1,0.57,1,0,0,1,0.15,0,82,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW008,Pasta Alfredo,Main Course,220,92,1,0.71,1,0,0,1,0.17,0,92,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW009,Pasta Arrabbiata,Main Course,210,86,0,0.57,3,3,3,0,0,630,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW010,Veg Biryani,Rice,180,70,1,1.57,2,2,2,0,0,360,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW011,Chicken Biryani,Rice,230,105,1,1.71,2,2,2,0,0,460,0,8,27
+08-27-25,Wednesday,0,Cloudy,26,,0,156,36,FW006,Margherita Pizza,Pizza,240,105,2,1.29,1,0,0,1,0.12,0,105,8,27
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW016,Fruit Bowl,Healthy,130,52,2,2.29,1,0,0,1,0.18,0,52,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW017,Cold Coffee,Beverages,100,30,0,0.43,1,0,0,1,0.27,0,30,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW018,Fresh Lime Soda,Beverages,80,22,1,2.14,2,0,0,2,0.48,0,44,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW019,Chocolate Shake,Beverages,140,48,1,1.29,2,2,2,0,0,280,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW020,Masala Chai,Beverages,40,10,2,1.71,2,2,2,0,0,80,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW022,Gulab Jamun,Desserts,80,24,2,1.14,1,0,0,1,0.15,0,24,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW023,Ice Cream Sundae,Desserts,150,55,0,0.86,1,0,0,1,0.19,0,55,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW024,Club Sandwich,Fast Food,180,76,1,1.71,1,0,0,1,0.21,0,76,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW025,Mushroom Pizza,Pizza,270,120,0,1.14,1,0,0,1,0.27,0,120,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW015,Caesar Salad,Healthy,170,68,2,0.86,4,4,4,0,0,680,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW021,Chocolate Brownie,Desserts,100,34,2,0.71,1,1,1,0,0,100,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW014,Chicken Tikka,Starters,240,112,1,0.86,3,3,3,0,0,720,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW013,Paneer Tikka,Starters,190,82,0,0.57,1,0,0,1,0.14,0,82,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW012,Dal Rice Bowl,Rice,150,54,1,1.29,3,3,3,0,0,450,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW002,Chicken Burger,Fast Food,160,72,0,1.14,1,1,1,0,0,160,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW003,Paneer Wrap,Fast Food,140,62,0,0.71,3,3,3,0,0,420,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW004,French Fries,Sides,90,28,2,2.14,3,3,3,0,0,270,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW005,Garlic Bread,Sides,110,35,2,0.71,1,1,1,0,0,110,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW006,Margherita Pizza,Pizza,240,105,0,1.14,1,1,1,0,0,240,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW001,Veg Burger,Fast Food,120,48,2,1.86,2,1,1,1,0.18,120,48,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW008,Pasta Alfredo,Main Course,220,92,0,0.43,1,0,0,1,0.22,0,92,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW009,Pasta Arrabbiata,Main Course,210,86,3,1,1,1,1,0,0,210,0,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW010,Veg Biryani,Rice,180,70,2,1.71,2,1,1,1,0.24,180,70,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW011,Chicken Biryani,Rice,230,105,2,1.57,2,1,1,1,0.25,230,105,8,28
+08-28-25,Thursday,0,Sunny,23,,0,146,35,FW007,Farmhouse Pizza,Pizza,290,132,1,1.14,1,1,1,0,0,290,0,8,28
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW016,Fruit Bowl,Healthy,130,52,0,1.86,1,0,0,1,0.24,0,52,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW017,Cold Coffee,Beverages,100,30,0,0.29,5,5,5,0,0,500,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW018,Fresh Lime Soda,Beverages,80,22,0,1.86,2,0,0,2,0.46,0,44,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW025,Mushroom Pizza,Pizza,270,120,0,0.86,1,0,0,1,0.27,0,120,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW019,Chocolate Shake,Beverages,140,48,2,1.57,2,2,2,0,0,280,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW021,Chocolate Brownie,Desserts,100,34,1,0.71,1,0,0,1,0.24,0,34,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW022,Gulab Jamun,Desserts,80,24,0,1,1,1,1,0,0,80,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW023,Ice Cream Sundae,Desserts,150,55,0,0.71,1,0,0,1,0.2,0,55,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW024,Club Sandwich,Fast Food,180,76,0,1.57,2,1,1,1,0.14,180,76,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW015,Caesar Salad,Healthy,170,68,4,1.43,1,1,1,0,0,170,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW020,Masala Chai,Beverages,40,10,2,1.86,2,0,0,2,0.35,0,20,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW014,Chicken Tikka,Starters,240,112,3,1,1,0,0,1,0.23,0,112,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW007,Farmhouse Pizza,Pizza,290,132,1,0.86,1,1,1,0,0,290,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW012,Dal Rice Bowl,Rice,150,54,3,1.43,2,0,0,2,0.52,0,108,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW011,Chicken Biryani,Rice,230,105,1,1.57,2,1,1,1,0.13,230,105,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW010,Veg Biryani,Rice,180,70,1,1.86,2,0,0,2,0.54,0,140,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW009,Pasta Arrabbiata,Main Course,210,86,1,1,1,0,0,1,0.18,0,86,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW008,Pasta Alfredo,Main Course,220,92,0,0.43,3,3,3,0,0,660,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW006,Margherita Pizza,Pizza,240,105,1,1,3,3,3,0,0,720,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW005,Garlic Bread,Sides,110,35,1,0.57,1,0,0,1,0.27,0,35,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW004,French Fries,Sides,90,28,3,2.29,2,2,2,0,0,180,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW003,Paneer Wrap,Fast Food,140,62,3,1,4,4,4,0,0,560,0,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW002,Chicken Burger,Fast Food,160,72,1,1.14,2,1,1,1,0.13,160,72,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW001,Veg Burger,Fast Food,120,48,1,2,2,1,1,1,0.18,120,48,8,29
+08-29-25,Friday,0,Sunny,29,,1,172,42,FW013,Paneer Tikka,Starters,190,82,0,0.43,1,0,0,1,0.15,0,82,8,29
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW015,Caesar Salad,Healthy,170,68,1,1.57,1,0,0,1,0.28,0,68,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW016,Fruit Bowl,Healthy,130,52,0,1.86,1,1,1,0,0,130,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW017,Cold Coffee,Beverages,100,30,5,1,3,1,1,2,0.54,100,60,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW018,Fresh Lime Soda,Beverages,80,22,0,1.57,2,2,2,0,0,160,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW023,Ice Cream Sundae,Desserts,150,55,0,0.57,1,0,0,1,0.18,0,55,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW020,Masala Chai,Beverages,40,10,0,1.43,3,0,0,3,0.7,0,30,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW021,Chocolate Brownie,Desserts,100,34,0,0.71,3,3,3,0,0,300,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW022,Gulab Jamun,Desserts,80,24,1,1,1,0,0,1,0.16,0,24,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW014,Chicken Tikka,Starters,240,112,0,0.71,2,2,2,0,0,480,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW019,Chocolate Shake,Beverages,140,48,2,1.43,2,0,0,2,0.34,0,96,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW013,Paneer Tikka,Starters,190,82,0,0.43,2,2,2,0,0,380,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW007,Farmhouse Pizza,Pizza,290,132,1,1,2,1,1,1,0.22,290,132,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW011,Chicken Biryani,Rice,230,105,1,1.43,2,1,1,1,0.19,230,105,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW010,Veg Biryani,Rice,180,70,0,1.57,2,0,0,2,0.27,0,140,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW009,Pasta Arrabbiata,Main Course,210,86,0,1,1,1,1,0,0,210,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW008,Pasta Alfredo,Main Course,220,92,3,0.86,2,2,2,0,0,440,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW006,Margherita Pizza,Pizza,240,105,3,1.43,1,0,0,1,0.24,0,105,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW005,Garlic Bread,Sides,110,35,0,0.57,1,0,0,1,0.17,0,35,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW004,French Fries,Sides,90,28,2,2.43,2,2,2,0,0,180,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW003,Paneer Wrap,Fast Food,140,62,4,1.43,2,0,0,2,0.27,0,124,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW002,Chicken Burger,Fast Food,160,72,1,1,4,4,4,0,0,640,0,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW001,Veg Burger,Fast Food,120,48,1,1.86,2,1,1,1,0.18,120,48,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW024,Club Sandwich,Fast Food,180,76,1,1.43,2,1,1,1,0.17,180,76,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW012,Dal Rice Bowl,Rice,150,54,0,0.86,1,0,0,1,0.18,0,54,8,30
+08-30-25,Saturday,1,Sunny,33,,0,170,35,FW025,Mushroom Pizza,Pizza,270,120,0,0.86,1,1,1,0,0,270,0,8,30
